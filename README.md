@@ -8,3 +8,8 @@ To build a number guessing game
 ### Task 2
 To build a simple calculator
 [Take a look](https://colab.research.google.com/drive/1W-JwR4FSU26e4rsX3WrWYBHZ7Q46gFo0#scrollTo=A-FaN851U-ff)
+
+### Task 3
+ResortRoom manager
+
+[Click it](https://colab.research.google.com/drive/1FWdj-uC3aK_aOW5aUx40V25CD21UjFJu#scrollTo=HcVFTJpmDcQU)
