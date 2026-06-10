@@ -13,3 +13,6 @@ To build a simple calculator
 ResortRoom manager
 
 [Click it](https://colab.research.google.com/drive/1FWdj-uC3aK_aOW5aUx40V25CD21UjFJu#scrollTo=HcVFTJpmDcQU)
+
+### Task
+Registration validator [click here](https://colab.research.google.com/drive/10AlAaLz8bKBRDSAv-6wBHK5tZnVIpiG2#scrollTo=YcnPGH-F1UWe) 
